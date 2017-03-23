@@ -1,10 +1,10 @@
-# C3PO Rest API Service #
+# Rest API Service #
 
 Version: 1.3
 
 ## __NCMs__ ##
 
-API: http://mustafar:9000/api/ncms
+API: http://localhost:9000/api/ncms
 
 #### Return (JSON) ####
 ```json
@@ -24,7 +24,7 @@ API: http://mustafar:9000/api/ncms
 
 ## __NCMs by user__ ##
 
-API: http://mustafar:9000/api/ncms/{userID}
+API: http://locahost:9000/api/ncms/{userID}
 
 #### Return (JSON) ####
 ```json
@@ -44,7 +44,7 @@ API: http://mustafar:9000/api/ncms/{userID}
 
 ## __Trial Leads__ ##
 
-API: http://mustafar:9000/api/leads/trial
+API: http://locahost:9000/api/leads/trial
 
 #### Return (JSON) ####
 ```json
